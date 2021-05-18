@@ -1,0 +1,7 @@
+
+> learn-starter@0.1.0 start C:\node\Projects\operation-utilities
+> next start
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Using webpack 5. Reason: no next.config.js https://nextjs.org/docs/messages/webpack5
+/c/node/node-v13.14.0-win-x64/npm: line 37:  9432 Hangup                  "$NODE_EXE" "$NPM_CLI_JS" "$@"
